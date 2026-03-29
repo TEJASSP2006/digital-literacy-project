@@ -92,6 +92,7 @@ Includes:
 * Created a **Digital Literacy Quiz (5 questions)**
 
 **Google Form Link:** *https://forms.gle/3t7hrBtvQBqxy4gA8*
+**Google Sheets Link:** *https://docs.google.com/spreadsheets/d/16X6D2xJf4we4l6F9zLmbRKAQDCT3B2OpZeQKS0-irwc/edit?usp=sharing*
 
 **Files:** Stored in `task-3-platforms/`
 
